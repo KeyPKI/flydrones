@@ -9,7 +9,7 @@ qr = qrcode.QRCode(
 )
 
 # Add QR data
-qr.add_data('Raghu K.\nWashingon DC\n123.456.6789\nrk.keypki@yopmail.com\nDroneModel:CHN DJ\nSerial=111-222-DC')
+qr.add_data('Raghu K.\nWashingon DC\n123.456.6789\ntest.keypki@yopmail.com\nDroneModel:CHN DJ\nSerial=111-222-DC')
 qr.make(fit=True)
 
 #Create QR image and save it. \
