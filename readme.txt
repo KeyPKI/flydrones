@@ -1,7 +1,7 @@
 This is a test for the git-tutorial
 
 The QR code contains the following information
-Name: Pradeep K. Ponnuswamy
+Name: Jason A. Marsh
 Address: Washington DC Metro Area
 Phone: 240.593.6930
 DroneModel: Phantom DJ
